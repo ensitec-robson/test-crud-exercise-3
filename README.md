@@ -251,7 +251,7 @@ frontend/
     App.vue
 
 backend/
-  src/main/java/com/robson/
+  src/main/java/robson/
     dto/
     entity/
     enums/
